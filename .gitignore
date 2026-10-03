@@ -1,0 +1,13 @@
+# Compiled Java classes & build folders
+*.class
+**/bin/
+
+# macOS system files
+.DS_Store
+
+# IDE / Editor directories
+.metals/
+.vscode/
+.settings/
+.classpath
+.project
